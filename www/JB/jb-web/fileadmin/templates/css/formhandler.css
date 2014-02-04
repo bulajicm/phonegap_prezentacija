@@ -1,0 +1,403 @@
+/* @override http://stage.jbn-development.com/fileadmin/templates/css/formhandler.css */
+
+/* @override 
+	http://stage.jbn-development.com/fileadmin/templates/css/formhandler.css */
+
+#formhandler_contact_form {
+	width:100%;
+}
+
+#formhandler_contact_form input.hidden, 
+#formhandler_contact_form input[type="hidden"] {display: none; border: none;}
+
+#formhandler_contact_form .r1 {
+	float: left;
+	/*width: 460px;*/
+	width: 432px;
+}
+
+#formhandler_contact_form .r2 {
+	float: right;
+	/*width: 475px;*/
+	width: 432px;
+}
+
+#formhandler_contact_form .formhandler_removelink {margin: 0 0 0 5px; display: inline;}
+#formhandler_contact_form .row {margin-bottom:10px;}
+
+
+#formhandler_contact_form input.submit, 
+#formhandler_contact_form input[type="submit"] {
+	border:1px solid #ccc;
+	width:auto;
+	display:inline;
+	clear:both;
+	color: #fff;
+	background: #00487e;
+	/*margin-left: 85px;*/
+	padding: 3px 10px;
+}
+
+#formhandler_contact_form .labelontop input.submit {
+	border:1px solid #ccc;
+	width:auto;
+	display:inline;
+	clear:both;
+	color: #fff;
+	background: #00487e;
+	margin-left: 0px;
+	margin: 20px 0 0 0;
+	padding: 3px 10px;
+}
+
+#formhandler_contact_form #uploadfile {
+	border:1px solid #ccc;
+	width:auto;
+	display:inline;
+	clear:both;
+	color: #fff;
+	background: #00487e;
+	margin-left: 0px;
+	margin: 20px 0 0 0;
+	padding: 3px 10px;
+
+}
+
+
+#formhandler_contact_form fieldset {
+	padding:10px 10px 10px 0px;
+	border: 0;
+}
+
+#formhandler_contact_form input {
+	padding:3px;
+	border: 1px solid #CCC;
+}
+
+#formhandler_contact_form legend {
+	display: none;
+}
+
+a span.error {
+	color:red;
+	text-decoration:none !important;
+}
+
+#formhandler_contact_form label.request {
+	display:block;
+	float:left;
+	width:200px;
+	padding: 3px;
+}
+
+#formhandler_contact_form .labelontop label {
+	display:block;
+	float:none;
+	width:200px;
+	padding: 3px;
+}
+
+#formhandler_contact_form .r1 label {
+	display:block;
+	float:left;
+	width:115px;
+	padding: 3px;
+}
+
+#formhandler_contact_form input[type="text"], #formhandler_contact_form textarea {
+	display:block;
+	width:300px;
+	float:left;
+}
+
+#formhandler_contact_form .clear {
+	clear:both;
+}
+
+#formhandler_contact_form #message {
+	height: 150px;
+	margin-bottom: 15px;
+	width: 100%;
+	padding: 3px;
+	border:1px solid #ccc;
+}
+
+hr {
+	border: 0px solid #ccc;
+	height:1px;
+	display: block;
+	background: #ccc;
+	margin: 24px 0;
+}
+
+#form-upload {
+/*	background: #cc0033;*/
+	/*margin-left: 90px;*/
+}
+
+.form-error {
+	border: 1px solid red;
+	padding: 10px !important;
+	width: auto;
+}
+
+.sbHolder{
+	background-color: #fff;
+	border: solid 1px #ccc;
+	font-family: Arial, sans-serif;
+	height: 25px;
+	position: relative;
+	width: 200px;
+	margin-left: 165px;
+}
+
+.r2 .sbHolder {
+	margin-left: 0 !important;
+}
+
+.sbSelector{
+	display: block;
+	height: 25px;
+	left: 0;
+	line-height: 25px;
+	outline: none;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 10px;
+	top: 0;
+	width: 170px;
+}
+
+
+.sbSelector:link, .sbSelector:visited, .sbSelector:hover{
+	color: #333;
+	outline: none;
+	text-decoration: none;
+}
+.sbToggle{
+	background: url(../images/form-icons-2.png) 0 -67px no-repeat;
+	display: block;
+	height: 30px;
+	outline: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 30px;
+}
+.sbToggle:hover{
+	background: url(../images/form-icons-2.png) 0 -67px no-repeat;
+}
+.sbToggleOpen{
+	background: url(../images/form-icons-2.png) 0 -16px no-repeat;
+}
+.sbToggleOpen:hover{
+	background: url(../images/form-icons-2.png) 0 -67px no-repeat;
+}
+.sbHolderDisabled{
+	background-color: #3C3C3C;
+	border: solid 1px #515151;
+}
+.sbHolderDisabled .sbHolder{
+	
+}
+.sbHolderDisabled .sbToggle{
+	
+}
+.sbOptions{
+	background-color: #fff;
+	border: solid 1px #ccc;
+	list-style: none;
+	left: -1px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width: 200px;
+	z-index: 1;
+	overflow-y: auto;
+}
+
+
+.r2 .sbOptions {
+	width: 250px !important;
+}
+
+.sbOptions li{
+	padding: 0 7px;
+	background: none !important;
+	padding: 0 7px !important;
+}
+.sbOptions a{
+	border-bottom: dotted 1px #515151;
+	display: block;
+	outline: none;
+	padding: 5px 0 5px 2px;
+	background-image: none;
+}
+.sbOptions a:link, .sbOptions a:visited{
+	color: #666;
+	text-decoration: none;
+}
+.sbOptions a:hover{
+	color: #333;
+}
+.sbOptions li.last a{
+	border-bottom: none;
+}
+.sbOptions .sbDisabled{
+	border-bottom: dotted 1px #515151;
+	color: #999;
+	display: block;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbGroup{
+	border-bottom: dotted 1px #515151;
+	color: #EBB52D;
+	display: block;
+	font-weight: bold;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbSub{
+	padding-left: 17px;
+}
+
+/*		iPad hoch*/
+
+@media only screen and (min-width: 761px) and (max-width: 991px) {
+
+#formhandler_contact_form .r1 {
+	float: left;
+	/*width: 460px;*/
+	width: 315px;
+}
+
+#formhandler_contact_form .r2 {
+	float: right;
+	/*width: 475px;*/
+	width: 315px;
+}
+
+#formhandler_contact_form input[type="text"], #formhandler_contact_form textarea {
+	display:block;
+	width:185px;
+	float:left;
+}
+
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 760px) {
+
+#formhandler_contact_form input[type="text"], #formhandler_contact_form textarea {
+	display:block;
+	width:280px;
+	float:left;
+}
+
+#formhandler_contact_form .r1 {
+	float: left;
+	width: 100%;
+	
+}
+
+#formhandler_contact_form .r2 {
+	float: left;
+	/*width: 460px;*/
+	width: 280px;
+}
+
+#formhandler_contact_form fieldset {
+	padding:0;
+}
+
+#formhandler_contact_form .labelontop label {
+	display:block;
+	float:left;
+	width:110px;
+	padding: 3px;
+}
+
+#formhandler_contact_form .labelontop {
+	width: 100%;
+}
+
+#formhandler_contact_form #message {
+	height: 150px;
+	margin-bottom: 15px;
+	width: 280px;
+	padding: 3px;
+	border:1px solid #ccc;
+	float: right;
+}
+
+#formhandler_contact_form .labelontop input[type=submit] {
+	margin: 0 0 0 125px;
+	padding: 3px 10px;
+}
+
+}
+
+
+@media only screen and (max-width:479px) {
+
+
+
+#formhandler_contact_form .r1 {
+	float: none;
+	/*width: 460px;*/
+	width: 250px !important;
+}
+
+#formhandler_contact_form .r1 label {
+	display:block;
+	float:none;
+	width:100%;
+	padding: 3px;
+}
+
+#formhandler_contact_form .labelontop {
+	width: 100%;
+}
+
+#formhandler_contact_form input[type="text"], #formhandler_contact_form textarea {
+	display:block;
+	width:238px;
+	float: none;
+}
+
+#formhandler_contact_form #message {
+	height: 150px;
+	margin-bottom: 15px;
+	width: 238px;
+	padding: 3px;
+	border:1px solid #ccc;
+}
+
+.sbHolder {
+	background-color: #fff;
+	border: solid 1px #ccc;
+	font-family: Arial, sans-serif;
+	height: 25px;
+	position: relative;
+	width: 250px;
+	margin-left: 0px;
+}
+
+
+.sbOptions{
+	background-color: #fff;
+	border: solid 1px #ccc;
+	list-style: none;
+	left: -1px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width: 250px;
+	z-index: 1;
+	overflow-y: auto;
+}
+
+
+}

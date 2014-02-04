@@ -1,0 +1,95 @@
+HTTrack3.47-27+htsswf+htsjava launched on Fri, 31 Jan 2014 08:43:24 at http://www.julius-berger.com/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://www.julius-berger.com/ -O1 "C:\My Web Sites\JB" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:47:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 4437894 got 1023420): www.julius-berger.com/fileadmin/media/Docs/Investor_Relations/JBN_AR_2012.pdf
+08:48:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 2639897 got 1909925): www.julius-berger.com/fileadmin/media/Docs/About_us/Fact_Booklet_2013.pdf
+09:11:49	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/corporate-culture/?type=98
+09:11:57	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/jb-experiences/oikelomen-blessing-olohije/
+09:12:00	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/jb-experiences/ifeanyi-jacob-israel/
+09:12:03	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/jb-experiences/josefine-erles/
+09:12:07	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/jb-experiences/?type=98
+09:12:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/apply-online/?type=98
+09:12:17	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/contact/?type=98
+09:12:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/contact/become-a-supplier/?type=98
+09:12:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/what-makes-us-nigerian/?type=98
+09:12:31	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/what-does-corporate-citizenship-mean-to-us/?type=98
+09:12:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/why-do-clients-trust-in-us/?type=98
+09:12:57	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/what-does-expertise-mean-to-us/?type=98
+09:13:11	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/view/article/inauguration-of-lekki-ikoyi-link-bridge-constructed-and-built-by-julius-berger-nigeria-plc/
+09:13:43	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/view/article/julius-berger-donates-1000-books-to-public-library/
+09:13:57	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/archive/archive/2013//browse/1/
+09:13:59	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/archive/archive/2013/
+09:14:01	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/archive/archive/2012/
+09:14:05	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/archive/archive/2011/
+09:14:09	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/archive/?type=98
+09:14:12	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/view/article/julius-berger-wins-2013-pearl-awards/
+09:14:15	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/view/article/ambulance-donated-to-julius-berger/
+09:14:15	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/view/article/nse-awards-julius-berger/
+09:14:19	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/view/article/julius-berger-distributes-life-saving-mosquito-nets/
+09:14:20	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/view/article/julius-berger-sponsors-school-supplies/
+09:14:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/archive/2013//browse/1/
+09:14:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/archive/2013//browse/2/
+09:14:29	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/archive/2013//browse/3/
+09:14:33	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/contact/press/
+09:14:37	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/archive/2013/
+09:14:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/archive/2012/
+09:14:44	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/archive/2011/
+09:14:47	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/press-room/latest-news/archive/?type=98
+09:14:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/view/article/company-holds-hiv-aids-training/?type=98&cHash=7324a106fb42a846715ebd36a277691f
+09:14:55	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/view/article/julius-berger-wins-2013-pearl-awards-1/?type=98&cHash=9df494f43fb1690783d64076f8af2782
+09:14:58	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/inside-jb/view/article/nigerian-society-of-engineers-awards-julius-berger/?type=98&cHash=e6e99697fe3122b4fe8c2ca0bb0f51cb
+09:15:10	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/on-site/?type=98
+09:15:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/service/imprint/?type=98
+09:15:16	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/service/terms-of-use/?type=98
+09:15:16	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/service/privacy-policy/?type=98
+09:15:17	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/career/jb-experiences/archive-jb-experience/
+09:15:19	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/service/sitemap/?type=98
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/images/slider/slide_bg_ipad.png (from www.julius-berger.com/fileadmin/templates/css/style.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_close.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_nav_left.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_nav_right.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_title_over.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_title_left.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_title_main.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_title_right.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_loading.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_n.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_ne.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_e.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_se.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_s.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_sw.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_w.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/templates/js/fancybox/fancybox/fancy_shadow_nw.png (from www.julius-berger.com/fileadmin/templates/js/fancybox/jquery.fancybox-1.3.4.css)
+09:15:19	Warning: 	Retry after error -4 (Incorrect length (1909925 Bytes, 2639897 expected)) at link www.julius-berger.com/fileadmin/media/Docs/About_us/Fact_Booklet_2013.pdf (from www.julius-berger.com/about-us/our-profile/)
+09:15:20	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/our-profile/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/our-values/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/our-history/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/about-us/our-group/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/project-portfolio/infrastructure/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/project-portfolio/buildings/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/project-portfolio/industries/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/project-portfolio/facility-services/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:28	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/the-jb-difference/quality-culture/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:28	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/the-jb-difference/solutions-provider/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:29	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/the-jb-difference/resources-and-services/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:30	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/the-jb-difference/health-safety-and-environment/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:31	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/the-jb-difference/corporate-citizenship/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:32	Warning: 	Retry after error -4 (Incorrect length (1023420 Bytes, 4437894 expected)) at link www.julius-berger.com/fileadmin/media/Docs/Investor_Relations/JBN_AR_2012.pdf (from www.julius-berger.com/investor-relations/board-of-directors/)
+09:15:33	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/investor-relations/board-of-directors/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:34	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/investor-relations/corporate-governance/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:35	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/media/Docs/Investor_Relations/JBN_Statement_of_Business_Principles.pdf (from www.julius-berger.com/investor-relations/business-principles/)
+09:15:35	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/investor-relations/business-principles/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:36	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/investor-relations/business-development/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:15:38	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/media/Docs/Investor_Relations/Q4_2013_Projected_Financial_Statements.pdf (from www.julius-berger.com/investor-relations/financial-reporting/)
+09:15:38	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/media/Docs/Investor_Relations/Q1_2014_Projected_Financial_Statement.pdf (from www.julius-berger.com/investor-relations/financial-reporting/)
+09:15:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.julius-berger.com/investor-relations/financial-reporting/?type=98&cHash=0303b0062789c5c9e0f8cba175d1f8fc
+09:21:21	Error: 	"Not Found" (404) at link www.julius-berger.com/fileadmin/media/Docs/About_us/N (from www.julius-berger.com/about-us/what-makes-us-nigerian/?type=98)
+
+HTTrack Website Copier/3.47-27 mirror complete in 41 minutes 30 seconds : 596 links scanned, 572 files written (66325071 bytes overall), 452 files updated [59979111 bytes received at 24087 bytes/sec], 1.5 requests per connection
+(21 errors, 63 warnings, 0 messages)

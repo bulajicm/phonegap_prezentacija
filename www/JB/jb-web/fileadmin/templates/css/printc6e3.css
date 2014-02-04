@@ -1,0 +1,30 @@
+body {
+	background: white;
+	font-size: 12pt;
+	font-family: "Helvetica Neue", Arial, serif;
+	color:#666;
+}
+
+#print-page {
+	width: auto; 
+	margin: 0 5%;
+	padding: 0; 
+	border: 0;
+	float: none !important;
+	background: transparent;
+}
+
+a {border:0px !important;)
+a img {border:0px !important;}
+
+#printlogo {
+	display:block;
+	margin:50px 0 20px 0;
+}
+
+a:link, a:visited {
+	color: #333;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+}

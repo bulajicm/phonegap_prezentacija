@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.julius-berger.com	TRUE	/	FALSE	1999999999	PHPSESSID	ne4l8i8s16a6qq539b0lqvl512
+www.julius-berger.com	TRUE	/	FALSE	1999999999	fe_typo_user	82da367e851b3bcce1e7c0686985da53
+
