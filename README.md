@@ -1,2 +1,0 @@
-phonegap_prezentacija
-=====================
